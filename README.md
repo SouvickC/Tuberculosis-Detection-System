@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# Tuberculosis-Detection-System
 
 ## Repository Link
 
