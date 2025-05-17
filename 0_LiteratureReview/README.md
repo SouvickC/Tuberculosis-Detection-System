@@ -1,6 +1,6 @@
-# Literature Review
+# Literature Review : Tuberculosis Detection
 
-
+Tuberculosis (TB) continues to be a major public health concern worldwide, necessitating rapid and reliable diagnostic approaches. In recent years, the application of machine learning and deep learning methods to chest X-ray images has attracted considerable research attention for automated TB detection. Several studies have investigated the effectiveness of different AI models, comparing their segmentation, classification, and overall diagnostic performance. The following literature review summarizes key findings from recent research in this domain.
 
 - **Deep learning models for tuberculosis detection and infected region visualization in chest X-ray images** [[Link]](https://www.sciencedirect.com/science/article/pii/S2667102623000438)
   
