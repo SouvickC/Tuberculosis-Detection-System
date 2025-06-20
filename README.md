@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/SouvickC/Tuberculosis-Detection-System]
 
 ## Description
 
@@ -10,7 +10,7 @@
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+[Image Classification]
 
 ### Results Summary
 
@@ -21,7 +21,7 @@
 ## Documentation
 
 1. **[Literature Review](0_LiteratureReview/README.md)**
-2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
+2. **[Dataset Characteristics](1_DatasetCharacteristics/EDA_TB_Dataset.ipynb)**
 3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
 4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
 5. **[Presentation](4_Presentation/README.md)**
